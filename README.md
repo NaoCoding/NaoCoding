@@ -3,19 +3,27 @@
 <h3 align="center">A Freshman Student From NTNU</h3>
 <h3 align="center">師大資工 116 盧昱安</h3>
 
+<p align="center"> 
 
-
-![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)	
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naocoding&show_icons=true&theme=radical)   
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</p>
+
+
 
 - 🌱 I’m currently learning **computer science courses**
 
 - 📫 How to reach me **naoyt4146@gmail.com**
 
 - ⚡ Fun fact **I am newbie to code and Github**
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naocoding&show_icons=true&theme=radical)   
+
+
 <h3 align="left">Social Media:</h3>
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
