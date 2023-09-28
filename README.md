@@ -3,7 +3,6 @@
 <h3 align="center">A Freshman Student From NTNU</h3>
 <h3 align="center">師大資工 116 盧昱安</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naocoding&label=Profile%20views&color=orange&style=for-the-badge" alt="naocoding" />  </p> 
 
 
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
