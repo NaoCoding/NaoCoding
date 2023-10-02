@@ -21,7 +21,8 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naocoding&show_icons=true&theme=radical)   
+![Github Stats](https://github-readme-stats.vercel.app/api?username=naocoding&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naocoding&hide=TeX&layout=compact)  
 
 <h3 align="left">Social Media:</h3>
 
@@ -43,7 +44,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
 
 
 <p align="center">
