@@ -23,7 +23,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naocoding&show_icons=true&theme=radical)   
 
-
 <h3 align="left">Social Media:</h3>
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
