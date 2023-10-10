@@ -4,11 +4,14 @@
 
 <p align="center"> 
 
+
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)	
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</p>
+
+</p>
+<a href="https://stackoverflow.com/users/18424522/naocoding"><img src="https://stackoverflow.com/users/flair/18424522.png" width="208" height="58" alt="profile for NaoCoding at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for NaoCoding at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 
 
 
