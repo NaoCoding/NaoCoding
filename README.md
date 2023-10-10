@@ -10,7 +10,7 @@
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 </p>
-<a href="https://stackoverflow.com/users/18424522/naocoding"><img src="https://stackoverflow.com/users/flair/18424522.png" width="208" height="58" alt="profile for NaoCoding at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for NaoCoding at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 
 
 
