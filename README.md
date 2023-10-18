@@ -42,7 +42,6 @@
 	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <h3 align="center">.
 	
-![LeetCode Stats](https://leetcard.jacoblin.cool/NaoCoding?theme=unicorn&font=Merriweather%20Sans&ext=activity)
 </h3>
 
 <p align="center">
