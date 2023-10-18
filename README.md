@@ -5,7 +5,7 @@
 <p align="center"> 
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=naocoding)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=naocoding&count_private=true&show_icons=true&include_all_commits=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/NaoCoding?theme=unicorn&font=Ubuntu&ext=contest)
 </p>
 
 
