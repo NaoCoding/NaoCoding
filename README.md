@@ -2,6 +2,8 @@
 <h3 align="center">A Freshman Student From NTNU</h3>
 <h3 align="center">師大資工 116 盧昱安</h3>
 
+
+
 <p align="center"> 
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=naocoding)
