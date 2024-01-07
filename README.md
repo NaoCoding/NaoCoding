@@ -4,8 +4,7 @@
 
 <p align="center"> 
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=naocoding)
-![LeetCode Stats](https://leetcard.jacoblin.cool/NaoCoding?theme=unicorn&font=Ubuntu&ext=contest)
+
 </p>
 
 
