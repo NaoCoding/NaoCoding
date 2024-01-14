@@ -19,8 +19,11 @@ Started learning coding since senior high school.
 ```
 Python / C / C++
 ```
+<h3 align="left">What I like to develop:</h3>
 
-
+```
+GUI ( Qt / Tkinter )
+```
 <h3 align="left">Contact Me:</h3>
 
 ```
