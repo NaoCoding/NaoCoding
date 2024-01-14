@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning **computer science courses**
+- 🌱 I’m currently majoring **computer science and information engineering**
 
 - 📫 How to reach me **naoyt4146@gmail.com**
 
