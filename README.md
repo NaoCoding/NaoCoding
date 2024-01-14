@@ -25,7 +25,9 @@ Python / C / C++
 
 <h3 align="left">Contact Me:</h3>
 
+```
 Email : naoyt4146@gmail.com
+```
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
