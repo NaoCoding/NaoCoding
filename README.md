@@ -21,6 +21,7 @@
 <h3 align="left">Personal Info:</h3>
 
 I am currently majoring computer science and information engineering in National Taiwan Normal University.
+I started learning coding since I was a senior high school student. The first language I learned was Python and it has become my favorite language.
 
 
 <h3 align="left">Languages and Tools:</h3>
