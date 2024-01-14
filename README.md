@@ -1,11 +1,9 @@
-<h1 align="center">NaoCoding (Andy Lu)</h1>
-<h3 align="center">A Freshman Student From NTNU</h3>
-<h3 align="center">師大資工 116 盧昱安</h3>
+<h3 align="left">NaoCoding</h3>
 
-<p align="center"> 
-
-</p>
-
+```
+Also known as Andy Lu
+Freshman in NTNU
+```
 
 <h3 align="left">Personal Info:</h3>
 
