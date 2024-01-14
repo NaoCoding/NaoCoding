@@ -17,8 +17,9 @@ Started learning coding since senior high school.
 
 
 <h3 align="left">Coding Languages:</h3>
+
 ```
-Python / C / C++ 
+Python / C / C++
 ```
 
 
