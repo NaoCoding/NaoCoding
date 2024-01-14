@@ -28,6 +28,7 @@ GUI ( Qt / Tkinter )
 
 ```
 Email : naoyt4146@gmail.com
+Discord : andylu
 ```
 
 <p align="center">
