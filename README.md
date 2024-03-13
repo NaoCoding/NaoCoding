@@ -14,10 +14,10 @@ Started learning coding since senior high school.
 ```
 
 
-<h3 align="left">Coding Languages:</h3>
+<h3 align="left">The Order I learned coding languages</h3>
 
 ```
-Python / C / C++
+Python > C++ > C > HTML > CSS > JavaScript
 ```
 <h3 align="left">What I like to develop:</h3>
 
