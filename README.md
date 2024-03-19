@@ -16,7 +16,7 @@ Bought a raspberry pi and deciding to develop more 24/7 tools and bots.
 <h3 align="left">Like to develop:</h3>
 
 ```
-GUI ( Python : Qt , Tkinter / C : GTK )
+GUI ( Python : Qt / Tkinter , C : GTK )
 Discord.py
 Small tools / script / bot to make life easier
 ```
