@@ -1,28 +1,24 @@
 <h3 align="left">NaoCoding</h3>
 
 ```
-Also known as Andy Lu
-Freshman in NTNU
+Also known as Andy Lu, Lu Yu An
+NTNU CSIE 116
 ```
 
 <h3 align="left">Personal Info:</h3>
 
 ```
 Majoring Computer Science and Information Engineering in National Taiwan Normal University.
-Python is my first and favorite coding language.
-Started learning coding since senior high school.
+Like to develop small stuff during free time.
+Bought a raspberry pi and deciding to develop more 24/7 tools and bots.
 ```
 
-
-<h3 align="left">The Order I learned coding languages</h3>
-
-```
-Python > C++ > C > HTML > CSS > JavaScript
-```
-<h3 align="left">What I like to develop:</h3>
+<h3 align="left">Like to develop:</h3>
 
 ```
-GUI ( Qt / Tkinter )
+GUI ( Python : Qt , Tkinter / C : GTK )
+Discord.py
+Small tools / script / bot to make life easier
 ```
 <h3 align="left">Contact Me:</h3>
 
@@ -30,7 +26,3 @@ GUI ( Qt / Tkinter )
 Email : naoyt4146@gmail.com
 Discord : andylu
 ```
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
