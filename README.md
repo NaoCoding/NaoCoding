@@ -26,3 +26,5 @@ Small tools / script / bot to make life easier
 Email : naoyt4146@gmail.com
 Discord : andylu
 ```
+<img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=NaoCoding&theme=road_trip&pixelate_avatar=false">
+
