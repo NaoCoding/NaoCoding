@@ -10,7 +10,7 @@ NTNU CSIE 116
 ```
 Majoring Computer Science and Information Engineering in National Taiwan Normal University.
 Like to develop small stuff during free time.
-Bought a raspberry pi and deciding to develop more 24/7 tools and bots.
+Python lover, always py as long as it's possible.
 ```
 
 <h3 align="left">Like to develop:</h3>
