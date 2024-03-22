@@ -11,15 +11,15 @@ NTNU CSIE 116
 Majoring Computer Science and Information Engineering in National Taiwan Normal University.
 Like to develop small stuff during free time.
 Python lover, always py as long as it's possible.
-Like Temma saki in pjsk.
+Enjoy playing PC games.
 ```
 
 <h3 align="left">Like to develop</h3>
 
 ```
 GUI ( Python : Qt / Tkinter , C : GTK )
-Discord.py
 Small tools / script / bot to make life easier
+Discord.py
 ```
 <h3 align="left">Contact Me </h3>
 
