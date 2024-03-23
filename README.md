@@ -29,3 +29,6 @@ Discord : andylu
 ```
 <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=NaoCoding&theme=road_trip&pixelate_avatar=false">
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/NaoCoding?theme=light&font=Carrois%20Gothic%20SC&ext=heatmap)
+
+
