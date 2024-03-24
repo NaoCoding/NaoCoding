@@ -24,7 +24,7 @@ Discord.py
 <h3 align="left">Contact Me </h3>
 
 ```
-Email : naoyt4146@gmail.com
+Email : naoyt4146@gmail.com / andylu4146@gmail.com
 Discord : andylu
 ```
 <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=NaoCoding&theme=road_trip&pixelate_avatar=false">
