@@ -19,6 +19,7 @@ Enjoy playing PC games.
 ```
 GUI ( Python : Qt / Tkinter , C : GTK )
 Small tools / scripts / bots to make life easier
+Chrome extensions
 Discord.py
 ```
 <h3 align="left">Contact Me </h3>
