@@ -33,7 +33,7 @@ Discord : andylu
 <h3 align="left">Latest Project </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NaoCoding&repo=NTNU_CP2_2024_bot)](https://github.com/NaoCoding/NTNU_CP2_2024_bot)
-m
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NaoCoding&repo=NTNU_CP2_2024_bot)](https://github.com/NaoCoding/NTNU_CP2_2024_bot)
 
 
 
