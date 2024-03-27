@@ -30,6 +30,11 @@ Discord : andylu
 ```
 <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=NaoCoding&theme=road_trip&pixelate_avatar=false">
 
+<h3 align="left">Latest Project </h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NaoCoding&repo=NTNU_CP2_2024_bot)](https://github.com/NaoCoding/NTNU_CP2_2024_bot)
+
+
 
 
 
