@@ -3,6 +3,7 @@
 ```
 Also known as Andy Lu, Lu Yu An
 NTNU CSIE 116
+" Debug is reviewing your life. "
 ```
 
 <h3 align="left">Personal Info </h3>
