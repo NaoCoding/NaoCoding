@@ -34,7 +34,7 @@ Discord : andylu
 
 <h3 align="left">Latest Project </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NaoCoding&repo=NTNU_CP2_2024_bot)](https://github.com/NaoCoding/NTNU_CP2_2024_bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NaoCoding&repo=NTNU_Moodle_ColorTheme)](https://github.com/NaoCoding/NTNU_Moodle_ColorTheme)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NaoCoding&repo=NTNU_GameProgramming_FinalProject)](https://github.com/NaoCoding/NTNU_GameProgramming_FinalProject)
 
 
