@@ -1,6 +1,6 @@
 <h3 align="left">NaoCoding</h3>
 
-[https://naocoding.github.io/](https://naocoding.github.io/)
+[naocoding.github.io](https://naocoding.github.io/)
 ```
 Also known as Andy Lu, Lu Yu An
 NTNU CSIE 116
