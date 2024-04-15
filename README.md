@@ -1,6 +1,6 @@
 <h3 align="left">NaoCoding</h3>
 
-[naocoding.github.io](https://naocoding.github.io/)
+
 ```
 Also known as Andy Lu, Lu Yu An
 NTNU CSIE 116
@@ -32,10 +32,10 @@ Discord : andylu
 ```
 <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=NaoCoding&theme=road_trip&pixelate_avatar=false">
 
-<h3 align="left">Latest Project </h3>
+<h3 align="left">List of my projects / repos </h3>
+<h4>Check out my markdown written site</h4>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NaoCoding&repo=NTNU_Moodle_ColorTheme)](https://github.com/NaoCoding/NTNU_Moodle_ColorTheme)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NaoCoding&repo=NTNU_GameProgramming_FinalProject)](https://github.com/NaoCoding/NTNU_GameProgramming_FinalProject)
+[naocoding.github.io](https://naocoding.github.io/)
 
 
 
