@@ -32,8 +32,6 @@ Discord : andylu
 ```
 <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=NaoCoding&theme=road_trip&pixelate_avatar=false">
 
-<h3 align="left">List of my projects / repos </h3>
-<h4>Check out my markdown written site</h4>
 
 [naocoding.github.io](https://naocoding.github.io/)
 
