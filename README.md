@@ -11,6 +11,7 @@ NTNU CSIE 116
 
 ```
 Majoring Computer Science and Information Engineering in National Taiwan Normal University. (Undergraduate)
+Python / C / C++ / Javascript 
 ```
 
 <h3 align="left">Contact Me </h3>
