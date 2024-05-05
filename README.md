@@ -10,10 +10,7 @@ NTNU CSIE 116
 <h3 align="left">Personal Info </h3>
 
 ```
-Majoring Computer Science and Information Engineering in National Taiwan Normal University.
-Like to develop small stuff during free time.
-Python lover, but also be able to write C/C++/javascript
-Enjoy playing PC games.
+Majoring Computer Science and Information Engineering in National Taiwan Normal University. (Undergraduate)
 ```
 
 <h3 align="left">Contact Me </h3>
