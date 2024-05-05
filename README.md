@@ -12,18 +12,10 @@ NTNU CSIE 116
 ```
 Majoring Computer Science and Information Engineering in National Taiwan Normal University.
 Like to develop small stuff during free time.
-Python lover, always py as long as it's possible.
+Python lover, but also be able to write C/C++/javascript
 Enjoy playing PC games.
 ```
 
-<h3 align="left">Like to develop</h3>
-
-```
-GUI ( Python : Qt / Tkinter , C : GTK )
-Small tools / scripts / bots to make life easier
-Chrome extensions
-Discord.py
-```
 <h3 align="left">Contact Me </h3>
 
 ```
