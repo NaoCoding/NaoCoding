@@ -17,7 +17,7 @@ Python / C / C++ / Javascript
 <h3 align="left">Contact Me </h3>
 
 ```
-Email : naoyt4146@gmail.com / andylu4146@gmail.com
+Email : me@andy-lu.dev
 Discord : andylu
 ```
 
