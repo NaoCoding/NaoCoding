@@ -9,7 +9,7 @@ NTNU CSIE 116
 <h3 align="left">Education </h3>
 
 ```
-Deoartment of Computer Science and Information Engineering in National Taiwan Normal University. (Undergraduate)
+Department of Computer Science and Information Engineering in National Taiwan Normal University. (Undergraduate)
 ```
 <h3 align="left">Contact Me </h3>
 
