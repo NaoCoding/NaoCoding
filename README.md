@@ -11,6 +11,14 @@ NTNU CSIE 116
 ```
 Department of Computer Science and Information Engineering in National Taiwan Normal University. (Undergraduate)
 ```
+
+<h3 align="left">Accomplishment </h3>
+
+```
+2024 NTNU 臺師大運算思維與程式設計專題競賽 技術組 特優
+2024 TOPC Bronze Medal
+```
+
 <h3 align="left">Contact Me </h3>
 
 ```
