@@ -1,11 +1,36 @@
+### Who am I 
 
-![image](https://github.com/user-attachments/assets/8d95691a-ed13-419f-94d1-c9fb79f609b0)
-  
-[See more my info from Personal Website](https://github.andy-lu.dev/)
+```
+I am Andy Lu (NaoCoding), currently pursuing bachelor degree of computer science in National Taiwan Normal University.
+I am passionate about developing, coding, and integrating new technology.
+I enjoy writing side projects and experiments.
+I have contributed to some GitHub repos and have written a large quantity of side projects.
+I have also taken the software engineering course which was designed for junior and senior students.
+```
 
+### Skills
+```
+Coding Languages: C++ / C / Python / JavaScript
+Develop Tools: Git / Docker
+Graphic User Interface: PyQt / Tkinter / GTK
+Data Visualization: Matpltlib / Pandas / Matlab / D3.js
+Data Communication: MQTT / http.server
+Computer Vision: OpenCV / Mediapipe
+Frontend: HTML / JS / CSS / p5.js / d3.js
+Backend: Flask / Node.js
+```
 
+### Competitions and Awards
+```
+2024 TOPC Bronze Award (Competitve Programming)
+2024 NTNU Whitathon co-organizor (Hackathon)
+2024 NTNU Game Jam 1st Award (Hackathon)
+2024 CPE 6/7 Top 1% in Taiwan (Competitive Programming)
+2024-2025 Information Group Member of NTNU CSIE Student Association
+```
+<br>
 
-
+![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=naocoding&show_icons=true&theme=cobalt)
 
 
 
