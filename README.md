@@ -28,6 +28,13 @@ Backend: Flask / Node.js
 2024 CPE 6/7 Top 1% in Taiwan (Competitive Programming)
 2024-2025 Information Group Member of NTNU CSIE Student Association
 ```
+
+### Side Projects
+```
+2024 TPTRS-MQTT : Qt UI/UX Development, MQTT Server Interaction
+2024 Monochromatic : p5.js, UI/UX Development, Game Dev
+2024 EduAi : UI/UX Development, NodeJs, Python Flask, Docker, Cloudflare Tunnel
+```
 <br>
 
 ![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=naocoding&show_icons=true&theme=cobalt)
