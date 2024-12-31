@@ -1,5 +1,4 @@
 ### Who am I 
-
 ```
 I am Andy Lu (NaoCoding), currently pursuing bachelor degree of computer science in National Taiwan Normal University.
 I am passionate about developing, coding, and integrating new technology.
@@ -7,7 +6,6 @@ I enjoy writing side projects and experiments.
 I have contributed to some GitHub repos and have written a large quantity of side projects.
 I have also taken the software engineering course which was designed for junior and senior students.
 ```
-
 ### Skills
 ```
 Coding Languages: C++ / C / Python / JavaScript
@@ -19,7 +17,6 @@ Computer Vision: OpenCV / Mediapipe
 Frontend: HTML / JS / CSS / p5.js / d3.js
 Backend: Flask / Node.js
 ```
-
 ### Competitions and Awards
 ```
 2024 TOPC Bronze Award (Competitve Programming)
@@ -28,7 +25,6 @@ Backend: Flask / Node.js
 2024 CPE 6/7 Top 1% in Taiwan (Competitive Programming)
 2024-2025 Information Group Member of NTNU CSIE Student Association
 ```
-
 ### Side Projects
 ```
 2024 TPTRS-MQTT : Qt UI/UX Development, MQTT Server Interaction
