@@ -1,6 +1,7 @@
 ### Who am I 
 ```
-I am Andy Lu (NaoCoding), currently pursuing bachelor degree of computer science in National Taiwan Normal University.
+I am Andy Lu (NaoCoding), currently pursuing bachelor degree of computer science in
+                                                  National Taiwan Normal University.
 I am passionate about developing, coding, and integrating new technology.
 I enjoy writing side projects and experiments.
 I have contributed to some GitHub repos and have written a large quantity of side projects.
