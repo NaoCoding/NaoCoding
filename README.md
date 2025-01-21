@@ -15,7 +15,7 @@ Graphic User Interface: PyQt / Tkinter / GTK
 Data Visualization: Matpltlib / Pandas / Matlab / D3.js 
 Data Communication: MQTT / http.server 
 Computer Vision: OpenCV / Mediapipe 
-Frontend: HTML / JS / CSS / p5.js / d3.js 
+Frontend: React / p5.js / d3.js 
 Backend: Flask / Node.js 
 ```
 
