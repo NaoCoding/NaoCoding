@@ -31,9 +31,10 @@ Backend: Flask / Node.js
 
 ### Side Projects
 ```
+2025 previousExamSystem : React / Nodejs / Express
+2024 EduAi : UI/UX Development, NodeJs, Python Flask, Docker, Cloudflare Tunnel 
 2024 TPTRS-MQTT : Qt UI/UX Development, MQTT Server Interaction 
 2024 Monochromatic : p5.js, UI/UX Development, Game Dev 
-2024 EduAi : UI/UX Development, NodeJs, Python Flask, Docker, Cloudflare Tunnel 
 ```
 
 
