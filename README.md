@@ -21,6 +21,7 @@ Backend: Flask / Node.js
 
 ### Competitions and Awards
 ```
+2025 TSMC CareerHack (Final Participant)
 2024 TOPC Bronze Award (Competitve Programming) 
 2024 NTNU Whitathon co-organizor (Hackathon) 
 2024 NTNU Game Jam 1st Award (Hackathon) 
