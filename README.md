@@ -39,6 +39,7 @@ Backend: Flask / Node.js
 
 
 ![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=naocoding&show_icons=true&theme=cobalt)
+![LeetCode Stats](https://leetcard.jacoblin.cool/NaoCoding?theme=dark&font=RocknRoll%20One&ext=contest)
 
 
 
