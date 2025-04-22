@@ -1,3 +1,5 @@
+`Check out My CV :` [https://cv.andy-lu.dev/](https://cv.andy-lu.dev/)
+
 ### Who am I 
 ```
 I am Andy Lu (NaoCoding), currently pursuing bachelor degree of computer science in National Taiwan Normal University. 
