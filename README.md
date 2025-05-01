@@ -8,8 +8,13 @@ I enjoy writing side projects and experiments.
 I have contributed to some GitHub repos and have written a large quantity of side projects. 
 I have also taken the software engineering course which was designed for junior and senior students. 
 ```
+### Work Experience
+```
+2025/06 - 2025/08 Google , STEP ( Associate Software Developer Intern )
+2025/03 - 2025/06 NTNU , Teaching Assistant of Computer Programming II
+```
 
-### Skills
+### Skill
 ```
 Coding Languages: C++ / C / Python / JavaScript 
 Develop Tools: Git / Docker 
