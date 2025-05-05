@@ -33,7 +33,7 @@ Backend: Flask / Node.js
 2024 TOPC Bronze Award (Competitve Programming) 
 2024 NTNU Whitathon co-organizor (Hackathon) 
 2024 Normal Game Jam 1st Award (Hackathon) 
-2024 CPE 6/7 Top 1% in Taiwan (Competitive Programming) 
+2024 CPE 6/7 Top 0.2% in Taiwan (Competitive Programming) 
 2024-2025 Information Group Member of NTNU CSIE Student Association 
 ```
 
