@@ -18,12 +18,12 @@ I have also taken the software engineering course which was designed for junior 
 ```
 Coding Languages: C++ / C / Python / JavaScript 
 Develop Tools: Git / Docker 
-Graphic User Interface: PyQt / Tkinter / GTK 
+Graphic User Interface: PyQt / Tkinter / GTK / WebGL
 Data Visualization: Matpltlib / Pandas / Matlab / D3.js 
 Data Communication: MQTT / http.server 
 Computer Vision: OpenCV / Mediapipe 
-Frontend: React / p5.js / d3.js 
-Backend: Flask / Node.js 
+Frontend: React / p5.js / d3.js
+Backend: Flask / Express.js 
 ```
 
 ### Competitions and Awards
