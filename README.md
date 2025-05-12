@@ -41,6 +41,7 @@ Backend: Flask / Express.js
 ### Side Projects
 ```
 2025 MyPOS : React / Express.js / SQL
+2025 glCube : WebGL
 2025 previousExamSystem : React / Nodejs / Express.js
 2024 EduAi : UI/UX Development, NodeJs, Python Flask, Docker, Cloudflare Tunnel 
 2024 TPTRS-MQTT : Qt UI/UX Development, MQTT Server Interaction 
