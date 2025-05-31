@@ -10,7 +10,7 @@ I have also taken the software engineering course which was designed for junior 
 ```
 ### Work Experience
 ```
-2025/06 - 2025/08 Google , Associate Software Developer Intern
+2025/06 - 2025/08 Google , STEP (Associate Software Developer) Intern
 2025/03 - 2025/06 NTNU , Teaching Assistant of Computer Programming II
 ```
 
