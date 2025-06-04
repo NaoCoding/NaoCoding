@@ -40,6 +40,7 @@ Backend: Flask / Express.js
 
 ### Side Projects
 ```
+2025 Hinagiku : Svelve / Firebase (What I participated in)
 2025 MyPOS : React / Express.js / SQL
 2025 glCube : WebGL
 2025 previousExamSystem : React / Nodejs / Express.js
