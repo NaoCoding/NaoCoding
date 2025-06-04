@@ -38,9 +38,9 @@ Backend: Flask / Express.js
 2024-2025 Information Group Member of NTNU CSIE Student Association 
 ```
 
-### Side Projects
+### Side Projects - Skills listed below are what I participated or what I wrote, not the whole project.
 ```
-2025 Hinagiku : Svelve / Firebase (What I participated in)
+2025 Hinagiku : Svelve / Firebase 
 2025 MyPOS : React / Express.js / SQL
 2025 glCube : WebGL
 2025 previousExamSystem : React / Nodejs / Express.js
