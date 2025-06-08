@@ -16,7 +16,7 @@ I have also taken the software engineering course which was designed for junior 
 
 ### Skill
 ```
-Coding Languages: C++ / C / Python / JavaScript 
+Coding Languages: Python / TypeScript / C / C++ / JavaScript 
 Develop Tools: Git / Docker 
 Graphic User Interface: PyQt / Tkinter / GTK / WebGL
 Data Visualization: Matpltlib / Pandas / Matlab / D3.js 
