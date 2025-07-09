@@ -6,7 +6,6 @@ I am Andy Lu (NaoCoding), currently pursuing bachelor degree of computer science
 I am passionate about developing, coding, and integrating new technology. 
 I enjoy writing side projects and experiments. 
 I have contributed to some GitHub repos and have written a large quantity of side projects. 
-I have also taken the software engineering course which was designed for junior and senior students. 
 ```
 ### Work Experience
 ```
@@ -16,7 +15,8 @@ I have also taken the software engineering course which was designed for junior 
 
 ### Skill
 ```
-Coding Languages: Python / TypeScript / C / C++ / JavaScript 
+Coding Languages: Python / TypeScript / C / C++ / JavaScript
+LLM SDK: Gemini / VertexAi / google.genai / RAG / Agent
 Develop Tools: Git / Docker 
 Graphic User Interface: PyQt / Tkinter / GTK / WebGL
 Data Visualization: Matpltlib / Pandas / Matlab / D3.js 
@@ -28,6 +28,7 @@ Backend: Flask / Express.js
 
 ### Competitions and Awards
 ```
+2025 - 2026 Google Developer Group on Campus NTNU Lead
 2025 Normal Game Jam co-organizor (Hackathon)
 2025 CPE 6/7 Top 0.2% in Taiwan (Competitive Programming) 
 2025 TSMC CareerHack (Final Participant)
@@ -40,6 +41,7 @@ Backend: Flask / Express.js
 
 ### Side Projects - Skills listed below are what I participated or what I wrote, not the whole project.
 ```
+2025 Google Internal Project : Python / Gemini SDK / RAG / Agent / Internal Module Interaction
 2025 Hinagiku : Svelve / Firebase 
 2025 MyPOS : React / Express.js / SQL
 2025 glCube : WebGL
