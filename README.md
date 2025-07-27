@@ -41,7 +41,7 @@ Backend: Flask / Express.js
 
 ### Side Projects - Skills listed below are what I participated or what I wrote, not the whole project.
 ```
-2025 Google Internal Project : Python / Gemini SDK / RAG / Agent / Internal Module Interaction
+2025 Google Internal Project : Python / Gemini SDK / RAG / Agent / RPC / Internal Module Interaction
 2025 Hinagiku : Svelve / Firebase 
 2025 MyPOS : React / Express.js / SQL
 2025 glCube : WebGL
