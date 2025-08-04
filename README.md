@@ -1,61 +1,30 @@
-`Check out My CV :` [https://cv.andy-lu.dev/](https://cv.andy-lu.dev/)
-
-### Who am I 
-```
-I am Andy Lu (NaoCoding), currently pursuing bachelor degree of computer science in National Taiwan Normal University. 
-I am passionate about developing, coding, and integrating new technology. 
-I enjoy writing side projects and experiments. 
-I have contributed to some GitHub repos and have written a large quantity of side projects. 
-```
-### Work Experience
-```
-2025/06 - 2025/08 Google , STEP (Associate Software Developer) Intern
-2025/03 - 2025/06 NTNU , Teaching Assistant of Computer Programming II
-```
-
-### Skill
-```
-Coding Languages: Python / TypeScript / C / C++ / JavaScript
-LLM SDK: Gemini / VertexAi / google.genai / RAG / Agent
-Develop Tools: Git / Docker 
-Graphic User Interface: PyQt / Tkinter / GTK / WebGL
-Data Visualization: Matpltlib / Pandas / Matlab / D3.js 
-Data Communication: MQTT / http.server 
-Computer Vision: OpenCV / Mediapipe 
-Frontend: React / p5.js / d3.js
-Backend: Flask / Express.js 
-```
-
-### Competitions and Awards
-```
-2025 - 2026 Google Developer Group on Campus NTNU Lead
-2025 Normal Game Jam co-organizor (Hackathon)
-2025 CPE 6/7 Top 0.2% in Taiwan (Competitive Programming) 
-2025 TSMC CareerHack (Final Participant)
-2024 TOPC Bronze Award (Competitve Programming) 
-2024 NTNU Whitathon co-organizor (Hackathon) 
-2024 Normal Game Jam 1st Award (Hackathon) 
-2024 CPE 6/7 Top 1% in Taiwan (Competitive Programming) 
-2024-2025 Information Group Member of NTNU CSIE Student Association 
-```
-
-### Side Projects - Skills listed below are what I participated or what I wrote, not the whole project.
-```
-2025 Google Internal Project : Python / Gemini SDK / RAG / Agent / RPC / Internal Module Interaction
-2025 Hinagiku : Svelve / Firebase 
-2025 MyPOS : React / Express.js / SQL
-2025 glCube : WebGL
-2025 previousExamSystem : React / Nodejs / Express.js
-2024 EduAi : UI/UX Development, NodeJs, Python Flask, Docker, Cloudflare Tunnel 
-2024 TPTRS-MQTT : Qt UI/UX Development, MQTT Server Interaction 
-2024 Monochromatic : p5.js, UI/UX Development, Game Dev 
-```
-
-
-![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=naocoding&show_icons=true&theme=cobalt)
-
-
-
-
-
-
+# Andy Lu ( Yu-An , Lu )
+New Taipei City, Taiwan  |  me@andy-lu.dev  |  [linkedin.com/in/andy-lu94](https://www.linkedin.com/in/andy-lu94/)  |  [github.com/NaoCoding](https://github.com/NaoCoding)
+### Education
+National Taiwan Normal Univeristy, BS in Computer Science Sept 2023 – Jun 2027
+### Experience
+Google, STEP (Associate Software Developer) Intern Jun 2025 - Aug 2025
+* Pixel Connectivity BlueTooth Team - Python, TypeScript, Gemini SDK, RAG, Multi-Agent, Prompt Engineering,
+Flask, RPC, Angular, Chrome Extension, SCSS
+* Refactor internal deprecated Python SDK (vertexai) for our project.
+* Develop a multi-agent for bug auto-triage and internal codebase code search.
+* RAG corpus implementation for Bluetooth spec QA agent.
+* Develop various tools for the agent to interact with different internal features.
+* Google Agent Develop Kit(ADK) service worker and service state integration.
+* Using Angular and TypeScript to develop chrome extension. SCSS and Angular for frontend interface.
+  
+NTNU, Teaching Assistant of Computer Prgramming II Feb 2025 – Jun 2025
+* Assisting and grading over 60 students’ homeworks and exams. Written automatically grading system and
+scripts for doing the tasks. Become the first teaching assistant in this course who is sophomore of all time.
+### Awards
+#### Community
+* 2025 - 2026 Google Developer Group on Campus NTNU Lead.
+#### Competitive Programming
+* 2024 ACM-ICPC Taiwan Online Programming Contest - Bronze Award
+* CPE ( Taiwan Collegiate Programming Examination ) Top 0.2% (6th / 2729) , 6/7 problem solved
+#### Hackathon
+* 2025 TSMC CareerHack (Final Participant), Normal Game Jam co-organizer
+* 2024 Normal Game Jam 1st award, NTNU Whitathon co-organizer
+### Tech Stacks
+Python, TypeScript, C/C++, Gemini SDK, Google ADK Agent, Flask, Nodejs, Express.js, React, p5.js, d3.js, Linux,
+Numpy, Mediapipe, OpenCV, SCSS, Svelte, Firebase
