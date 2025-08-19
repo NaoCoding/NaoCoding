@@ -13,18 +13,23 @@ Flask, RPC, Angular, Chrome Extension, SCSS
 * Google Agent Develop Kit(ADK) service worker and service state integration.
 * Using Angular and TypeScript to develop chrome extension. SCSS and Angular for frontend interface.
   
+NTNU, Software Engineering TA Sep 2025 - Dec 2025
+
 NTNU, Teaching Assistant of Computer Prgramming II Feb 2025 – Jun 2025
 * Assisting and grading over 60 students’ homeworks and exams. Written automatically grading system and
 scripts for doing the tasks. Become the first teaching assistant in this course who is sophomore of all time.
+
+### Projects
+* 2025 Hinagiku An intelligent system designed to support educational environments. Svelte, Firebase
+* 2025 MyPOS Open source POS system by React, Express, SQLite3
+* 2025 EduAi Moodle-based AI support open source educational website. Docker, Nodejs, Flask, MySQL
+* 2024 TPTRS-MQTT MQTT Server Integration for offering UBike realtime data. MQTT, PyQt5, Folium
+* 2024 Monochromatic A Story game based on p5.js, Won 2024 NTNU Normal Game Jam. p5.js / Game Dev
+* 2024 UBike-Web d3.js + python flask fetching realtime UBike data for offering users visualization data.
+
 ### Awards
-#### Community
 * 2025 - 2026 Google Developer Group on Campus NTNU Lead.
-#### Competitive Programming
 * 2024 ACM-ICPC Taiwan Online Programming Contest - Bronze Award
 * CPE ( Taiwan Collegiate Programming Examination ) Top 0.2% (6th / 2729) , 6/7 problem solved
-#### Hackathon
 * 2025 TSMC CareerHack (Final Participant), Normal Game Jam co-organizer
 * 2024 Normal Game Jam 1st award, NTNU Whitathon co-organizer
-### Tech Stacks
-Python, TypeScript, C/C++, Gemini SDK, Google ADK Agent, Flask, Nodejs, Express.js, React, p5.js, d3.js, Linux,
-Numpy, Mediapipe, OpenCV, SCSS, Svelte, Firebase
