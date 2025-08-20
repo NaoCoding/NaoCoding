@@ -15,7 +15,7 @@ Flask, RPC, Angular, Chrome Extension, SCSS
   
 NTNU, Software Engineering TA Sep 2025 - Dec 2025
 
-NTNU, Teaching Assistant of Computer Prgramming II Feb 2025 – Jun 2025
+NTNU, Computer Prgramming II TA Feb 2025 – Jun 2025
 * Assisting and grading over 60 students’ homeworks and exams. Written automatically grading system and
 scripts for doing the tasks. Become the first teaching assistant in this course who is sophomore of all time.
 
