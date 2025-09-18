@@ -7,7 +7,7 @@ National Taiwan Normal Univeristy, BS in Computer Science Sept 2023 – Jun 2027
 ```
 ```
 Work Experience
-Appier, Software Engineer Intern (Backend) Sep 2025 - Now
+Appier, Software Engineer Intern (Backend) Oct 2025 - Now
 Google, STEP (Associate Software Developer) Intern Jun 2025 - Aug 2025
 NTNU, Software Engineering TA Sep 2025 - Dec 2025
 NTNU, Computer Prgramming II TA Feb 2025 – Jun 2025
