@@ -14,7 +14,7 @@ NTNU, Computer Prgramming II TA Feb 2025 – Jun 2025
 ```
 ```
 Projects (Currently focus on)
-Drawinx (Happy to see it getting 9.7k+ stars)
+Drawinx (Happy to see it getting 11.8k+ stars)
 XueEr
 ```
 ```
