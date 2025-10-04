@@ -1,4 +1,7 @@
 ```
+Last Update by GitHub_Automation (naocoding/github_automation): {#{TIME}#}
+```
+```
 Andy Lu ( Yu-An , Lu )
 ```
 ```
@@ -14,7 +17,7 @@ NTNU, Computer Prgramming II TA Feb 2025 – Jun 2025
 ```
 ```
 Projects (Currently focus on)
-Drawinx (Happy to see it getting 11.8k+ stars)
+Drawinx (Happy to see it getting {#{DRAWNIX_STARS}#}+ stars)
 Plait
 XueEr
 ```
