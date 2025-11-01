@@ -13,6 +13,9 @@ NTNU, Software Engineering TA Sep 2025 - Dec 2025
 NTNU, Computer Prgramming II TA Feb 2025 – Jun 2025
 ```
 ```
+cv: https://cv.andy-lu.dev
+```
+```
 Projects (Currently focus on)
 Drawinx (Happy to see it getting 11.8k+ stars)
 Plait
