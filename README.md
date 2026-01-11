@@ -16,21 +16,6 @@ NTNU, Computer Prgramming II TA Feb 2025 – Jun 2025
 cv: https://cv.andy-lu.dev
 ```
 ```
-Projects (Currently focus on)
-Drawinx (Happy to see it getting 11.8k+ stars)
-Plait
-XueEr
-```
-```
-Project (Done and Maintenance)
-2025 Hinagiku An intelligent system designed to support educational environments. Svelte, Firebase
-2025 MyPOS Open source POS system by React, Express, SQLite3
-2025 EduAi Moodle-based AI support open source educational website. Docker, Nodejs, Flask, MySQL
-2024 TPTRS-MQTT MQTT Server Integration for offering UBike realtime data. MQTT, PyQt5, Folium
-2024 Monochromatic A Story game based on p5.js, Won 2024 NTNU Normal Game Jam. p5.js / Game Dev
-2024 UBike-Web d3.js + python flask fetching realtime UBike data for offering users visualization data.
-```
-```
 Contact Info
 discord : andylu
 e-mail : me@andy-lu.dev
