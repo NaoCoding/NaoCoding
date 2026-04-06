@@ -3,7 +3,7 @@ Andy Lu ( Yu-An , Lu )
 ```
 ```
 Education
-National Taiwan Normal Univeristy, BS in Computer Science Sept 2023 – Jun 2027
+National Taiwan Normal Univeristy, BS in Computer Science Sept 2023 – Now
 ```
 ```
 Work Experience
