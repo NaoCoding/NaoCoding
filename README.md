@@ -7,6 +7,7 @@ National Taiwan Normal Univeristy, BS in Computer Science Sept 2023 – Now
 ```
 ```
 Work Experience
+Colonist, Product Developer Intern Sep 2026 - Now
 Google, Software Engineer Intern Jun 2026 - Sep 2026
 Appier, Software Engineer Intern (Backend) Oct 2025 - Apr 2026
 Google, STEP (Associate Software Developer) Intern Jun 2025 - Aug 2025
