@@ -7,12 +7,12 @@ National Taiwan Normal Univeristy, BS in Computer Science Sept 2023 – Now
 ```
 ```
 Work Experience
-Colonist, Product Developer Intern Sep 2026 - Now
-Google, Software Engineer Intern Jun 2026 - Sep 2026
-Appier, Software Engineer Intern (Backend) Oct 2025 - Apr 2026
-Google, STEP (Associate Software Developer) Intern Jun 2025 - Aug 2025
-NTNU, Software Engineering TA Sep 2025 - Dec 2025
-NTNU, Computer Prgramming II TA Feb 2025 – Jun 2025
+Colonist   Product Developer Intern                   Sep 2026 - Now
+Google     Software Engineer Intern                   Jun 2026 - Sep 2026
+Appier     Software Engineer Intern (Backend)         Oct 2025 - Apr 2026
+Google     STEP Intern                                Jun 2025 - Aug 2025
+NTNU       Software Engineering TA                    Sep 2025 - Dec 2025
+NTNU       Computer Prgramming II TA                  Feb 2025 – Jun 2025
 ```
 ```
 cv: https://cv.andy-lu.dev
